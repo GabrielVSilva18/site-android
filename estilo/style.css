@@ -135,6 +135,18 @@ main a:hover {
     text-decoration: underline;
 }
 
+.video {
+    background-color: var(--verde05);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.video iframe {
+    width: 100%;
+    height: 400px;
+}
+
 aside > h3 {
     background-color: var(--verde04);
     color: white;
